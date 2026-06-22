@@ -1,6 +1,6 @@
 {
   "name": "timefence",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Put a time limit on any promise, with real AbortSignal cancellation and a composable deadline signal. Zero dependencies.",
   "keywords": [
     "timeout",
